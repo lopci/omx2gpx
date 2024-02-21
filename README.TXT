@@ -1,6 +1,10 @@
 OMX2GPX - A simple Geonaute OnMove 220 GPS watch OMH/OMD to GPX converter.
 Code: Clement CORDE - c1702@yahoo.com, started on 2016/10/08.
 
+*** 2024/02/21 - v.1.04 ***
+
+- Added a change that sets the GPX output filename to -> YYMMDD_{distance in km}-{original filename} format.
+- Inlcudes binaries for the armv5 architecture 
 
 *** 2016/10/25 - v.1.03 ***
 
